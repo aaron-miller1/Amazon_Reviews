@@ -1,10 +1,10 @@
 # Amazon_Reviews
 
-#### Overview
+## Overview
 
 This project analyzes reviews written by the Amazine Vine program members. These members are provided items from a mancufacturer who pays a small fee to Amazon, and in return the members are required to publish a review. This project focuses on the video games section of Amazons website and its reviews, both paid and unpaid. The data has been cleaned to only show product reviews with over 20 votes and a greater than 50% helpfulness rating.
 
-#### Results
+## Results
 
 Below are the results of the analysis:
 
