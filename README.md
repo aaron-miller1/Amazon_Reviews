@@ -15,6 +15,6 @@ Below are the results of the analysis:
 
 - Of those 40,471 unpaid reviews, 15,663 were rated 5 stars. Giving products in the video game category not using the vine program 38.7% 5 star ratings. 
 ![image](https://user-images.githubusercontent.com/102704559/181863180-1ee3da4b-dda0-4b57-83bf-9182770ec007.png)
-
+ 
  
 ## Summary
