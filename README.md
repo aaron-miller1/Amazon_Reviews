@@ -20,3 +20,7 @@ Below are the results of the analysis:
  
  
 ## Summary
+
+At first glance there seems to be a bias towards individuals in the Amazon Vine Program giving the products they receive a 5 star review versus those who are not in the program and pay for the item themselves. However, the datasets between the 2 are vastly different with unpaid reviews being 430 times greater than paid reviews leading to another bias towards unpaid reviews. Additionally, a statistical distribution analysis, finding the mean, median, and mode, of the star rating for paid and unpaid reviews may be performed to gain more insight.
+
+
